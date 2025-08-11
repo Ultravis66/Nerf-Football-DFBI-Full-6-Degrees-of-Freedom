@@ -49,14 +49,5 @@ The simulation demonstrates how the football's geometry and fin design create in
 ## Simulation Details
 
 ### Methodology
-- **Solver**: DFBI (Dynamic Fluid Body Interaction)
+- DFBI (Dynamic Fluid Body Interaction)
 - **Degrees of Freedom**: 6 (3 translational + 3 rotational)
-- **Coupling**: Fluid-structure interaction with rigid body dynamics
-
-### Key Features
-- Real-time fluid force computation
-- Coupled translation and rotation dynamics
-- Comprehensive motion tracking
-- Visualization of all motion components
-
-
